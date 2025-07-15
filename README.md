@@ -12,7 +12,9 @@ Untuk bagian input(), kamu bisa:
 Menjalankan versi kode asli di local runtime via terminal (jika support).
 ATAU, gunakan versi kode yang sudah dimodifikasi agar tidak memakai input() (simulasi dengan variabel langsung).
 
+
 Tutorial Penggunaan Aplikasi 
+
 Saat program dijalankan, akan muncul menu utama:
 
 === MESIN KASIR SEDERHANA ===
@@ -35,6 +37,7 @@ Menampilkan struk belanja lengkap dengan waktu, total, dan meminta jumlah uang p
 
 4. Keluar
 Menutup program.
+
 
 
 FAQ dan Troubleshooting Guide
