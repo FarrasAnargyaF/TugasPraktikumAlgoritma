@@ -1,7 +1,6 @@
 Panduan Instalasi dan Konfigurasi
 
 1. Persiapan
-Pastikan kamu punya akun Google.
 Buka browser dan akses Google Colab.
 Klik File > New Notebook untuk membuat file baru.
 
