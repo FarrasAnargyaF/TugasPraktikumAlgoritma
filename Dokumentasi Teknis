@@ -99,3 +99,52 @@ def main():
 # Menjalankan fungsi main() saat file ini dijalankan
 if __name__ == "__main__":
     main()
+
+=== MESIN KASIR SEDERHANA ===
+1. Tambah Item
+2. Hapus Item
+3. Cetak Struk & Bayar
+4. Keluar
+Pilih menu (1-4): 1
+Nama barang: Butterscotch Latte
+Harga satuan: 30000
+Jumlah: 2
+Butterscotch Latte berhasil ditambahkan.
+
+=== MESIN KASIR SEDERHANA ===
+1. Tambah Item
+2. Hapus Item
+3. Cetak Struk & Bayar
+4. Keluar
+Pilih menu (1-4): 1
+Nama barang: Aren Latte
+Harga satuan: 25000
+Jumlah: 2
+Aren Latte berhasil ditambahkan.
+
+=== MESIN KASIR SEDERHANA ===
+1. Tambah Item
+2. Hapus Item
+3. Cetak Struk & Bayar
+4. Keluar
+Pilih menu (1-4): 3
+
+==== STRUK BELANJA ====
+Waktu: 2025-07-15 02:47:43
+----------------------------
+Butterscotch Latte 2 x 30000.0 = Rp60000.00
+Aren Latte      2 x 25000.0 = Rp50000.00
+----------------------------
+TOTAL BAYAR: Rp110000.00
+Uang dibayarkan: Rp150000
+KEMBALIAN: Rp40000.00
+=== TERIMA KASIH ===
+
+=== MESIN KASIR SEDERHANA ===
+1. Tambah Item
+2. Hapus Item
+3. Cetak Struk & Bayar
+4. Keluar
+Pilih menu (1-4): 4
+Keluar dari aplikasi. Sampai jumpa!
+
